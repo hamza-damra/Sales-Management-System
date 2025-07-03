@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\CustomerAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\CustomersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\InvoicesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\MainDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\ProductAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\ProductAnalyticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\ProductsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\ProductTileViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PresentationLayer\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
